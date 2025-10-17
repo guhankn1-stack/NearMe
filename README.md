@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 17/05/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -119,9 +119,12 @@ Departments	FEAT has 11 engineering
 
 
 ## OUTPUT
-![alt text](<Screenshot (26).png>)
-![alt text](<Screenshot (84).png>)
-![alt text](<Screenshot (84).png>)
+<img width="1920" height="1080" alt="Screenshot 2025-09-28 231722" src="https://github.com/user-attachments/assets/017c4e47-9b42-4d88-8af7-ca957a86578f" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/94425d48-a442-4428-8647-cc98282a445e" />
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/58fbb2e0-8e79-4986-9ea8-a03bf4bf8916" />
+<img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/e641a46e-44a4-4660-95da-c4bb9ec4176a" />
+<img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/9ee51815-e77b-4432-8b7d-6987dc005cc0" />
+<img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/f54f21e1-013a-4bf9-8dac-4291afe263af" />
 
 
 
